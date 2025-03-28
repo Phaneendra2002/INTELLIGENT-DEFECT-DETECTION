@@ -1,0 +1,13 @@
+names:
+- Quartzity
+- Live_Knot
+- Marrow
+- Resin
+- Dead_Knot
+- Knot_with_Crack
+- Knot_Missing
+- Crack
+nc: 8
+test: yolo_dataset\images\test
+train: yolo_dataset\images\train
+val: yolo_dataset\images\val

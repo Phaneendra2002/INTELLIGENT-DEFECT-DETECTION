@@ -1,0 +1,13 @@
+names:
+- Quartzity
+- Live_Knot
+- Marrow
+- Resin
+- Dead_Knot
+- Knot_with_Crack
+- Knot_Missing
+- Crack
+nc: 8
+test: C:\Users\surya\OneDrive\Desktop\AI Wood\yolo_dataset\images\test
+train: C:\Users\surya\OneDrive\Desktop\AI Wood\yolo_dataset\images\train
+val: C:\Users\surya\OneDrive\Desktop\AI Wood\yolo_dataset\images\val
